@@ -1,0 +1,14 @@
+C:\Users\Kim\source\repos\TCPMessenger\TCPMessengerServer\bin\x86\Release\TCPMessengerServer.exe.config
+C:\Users\Kim\source\repos\TCPMessenger\TCPMessengerServer\bin\x86\Release\TCPMessengerServer.exe
+C:\Users\Kim\source\repos\TCPMessenger\TCPMessengerServer\bin\x86\Release\TCPMessengerServer.pdb
+C:\Users\Kim\source\repos\TCPMessenger\TCPMessengerServer\obj\x86\Release\MainWindow.baml
+C:\Users\Kim\source\repos\TCPMessenger\TCPMessengerServer\obj\x86\Release\MainWindow.g.cs
+C:\Users\Kim\source\repos\TCPMessenger\TCPMessengerServer\obj\x86\Release\App.g.cs
+C:\Users\Kim\source\repos\TCPMessenger\TCPMessengerServer\obj\x86\Release\TCPMessengerServer_MarkupCompile.cache
+C:\Users\Kim\source\repos\TCPMessenger\TCPMessengerServer\obj\x86\Release\TCPMessengerServer.g.resources
+C:\Users\Kim\source\repos\TCPMessenger\TCPMessengerServer\obj\x86\Release\TCPMessengerServer.Properties.Resources.resources
+C:\Users\Kim\source\repos\TCPMessenger\TCPMessengerServer\obj\x86\Release\TCPMessengerServer.csproj.GenerateResource.cache
+C:\Users\Kim\source\repos\TCPMessenger\TCPMessengerServer\obj\x86\Release\TCPMessengerServer.csproj.CoreCompileInputs.cache
+C:\Users\Kim\source\repos\TCPMessenger\TCPMessengerServer\obj\x86\Release\TCPMessengerServer.exe
+C:\Users\Kim\source\repos\TCPMessenger\TCPMessengerServer\obj\x86\Release\TCPMessengerServer.pdb
+C:\Users\Kim\source\repos\TCPMessenger\TCPMessengerServer\obj\x86\Release\TCPMessengerServer.csprojAssemblyReference.cache
